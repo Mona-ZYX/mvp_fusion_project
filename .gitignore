@@ -1,0 +1,15 @@
+# === Ignore large dataset files and temp ===
+*.pkl
+*.pth
+*.ckpt
+*.json
+*.zip
+*.tar
+*.log
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
+MVP/data/
+CenterPoint/data/
+.ipynb_checkpoints/
